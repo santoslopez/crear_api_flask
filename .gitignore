@@ -1,0 +1,15 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Archivos de entorno virtual
+venv/
+env/
+ENV/
+.venv/
+
+# Archivos de configuración de Flask
+instance/
+*.db
+
+# Archivos de configuración de IDEs
